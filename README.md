@@ -44,7 +44,7 @@ jupyter notebook
 
 ## Project Structure
 ```
-├── Data/t
+├── Data/
 │   └── house_loan.csv
 ├── Python Notebooks/
 │   └── House_loan_prediction.ipynb
@@ -87,11 +87,6 @@ jupyter notebook notebooks/House_loan_predictions.ipynb
 
 2. Run all cells to reproduce the analysis
 3. Test model on new dataset
-
-## Model Limitations
-- [Limitation 1, e.g., assumes linear relationship]
-- [Limitation 2, e.g., sensitive to outliers]
-- [Limitation 3, e.g., requires feature scaling]
 
 ## Future Improvements
 - [ ] Implement ensemble methods (Random Forest, Gradient Boosting)
